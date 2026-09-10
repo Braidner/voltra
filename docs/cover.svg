@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="540" viewBox="0 0 1280 540" role="img" aria-labelledby="title desc">
+<title id="title">Voltra — See what fills your Mac</title><desc id="desc">An illustrative treemap. No real disk data.</desc>
+<rect width="1280" height="540" rx="16" fill="#f7f9fc"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" fill="#162136">
+<rect x="66" y="78" width="48" height="48" rx="10" fill="#1555ed"/><path d="M77 89h12v26H77zm16 0h10v11H93zm0 15h10v11H93z" fill="white"/>
+<text x="66" y="221" font-size="76" font-weight="750" letter-spacing="-3">Voltra</text>
+<text x="69" y="284" font-size="30">See what fills your Mac.</text>
+<text x="69" y="342" font-size="18" fill="#506078">Explore folders. Find large files.</text>
+<text x="69" y="372" font-size="18" fill="#506078">Move what you choose to Trash.</text>
+<text x="69" y="452" font-size="14" fill="#506078">LOCAL-FIRST · macOS · NEXT.JS</text></g>
+<g transform="translate(610 58)" stroke="#f7f9fc" stroke-width="6">
+<rect width="308" height="276" rx="10" fill="#1758e8"/><rect x="308" width="242" height="174" rx="10" fill="#259542"/>
+<rect x="308" y="174" width="242" height="244" rx="10" fill="#f08b16"/><rect y="276" width="177" height="142" rx="10" fill="#8247e5"/><rect x="177" y="276" width="131" height="142" rx="10" fill="#d9408a"/>
+<g stroke="white" stroke-opacity=".38" stroke-width="2" fill="white" fill-opacity=".13"><rect x="17" y="65" width="166" height="194" rx="4"/><rect x="190" y="65" width="102" height="90" rx="4"/><rect x="190" y="162" width="102" height="97" rx="4"/><rect x="325" y="65" width="103" height="92" rx="4"/><rect x="435" y="65" width="99" height="92" rx="4"/><rect x="325" y="239" width="209" height="100" rx="4"/><rect x="325" y="346" width="100" height="55" rx="4"/><rect x="432" y="346" width="102" height="55" rx="4"/></g>
+<g stroke="none" fill="white" font-family="Arial,sans-serif" font-size="18" font-weight="600"><text x="22" y="39">Documents</text><text x="330" y="39">Photos</text><text x="330" y="214">Projects</text><text x="22" y="315">Archives</text><text x="195" y="315">Media</text></g></g></svg>

@@ -1,0 +1,35 @@
+{
+  "name": "voltra",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "repository": {"type": "git", "url": "https://github.com/Braidner/voltra.git"},
+  "bugs": {"url": "https://github.com/Braidner/voltra/issues"},
+  "homepage": "https://github.com/Braidner/voltra#readme",
+  "description": "A local-first disk space explorer for macOS, with interactive treemaps and native Trash.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "check": "tsc --noEmit",
+    "dev": "next dev --hostname 127.0.0.1 --port 4391",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1 --port 4391",
+    "test": "tsx --test tests/*.test.ts",
+    "format": "prettier --write app lib tests package.json tsconfig.json"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.21.0",
+    "prettier": "^3.8.0"
+  }
+}
